@@ -2326,10 +2326,12 @@ schema-utils@^2.6.0, schema-utils@^2.6.4:
     ajv "^6.12.0"
     ajv-keywords "^3.4.1"
 
-select-dom@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/select-dom/-/select-dom-5.1.0.tgz#b786155e891ce2c797d42b9c8643c8ad3a2247b5"
-  integrity sha512-roC9kDCsz/xxio7LJtr7VGiJ163MBcl9emB0jIXdvahdUdvTO2wD91diHxUR9EjrG7XSyXOyH+QaqgPLGZOiFg==
+select-dom@^7.1.1:
+  version "7.1.1"
+  resolved "https://registry.yarnpkg.com/select-dom/-/select-dom-7.1.1.tgz#9145f1c3218f27082d739eafd897ce5511f6ae0f"
+  integrity sha512-W4052AVb0TkSU8MgiNLiVio4WqCLpDSWPYz5RI6C5MoXfjo6b8p0v/Ld2iK9F/FO2FUqn6N0jFlBGyl2z5dzbA==
+  dependencies:
+    typed-query-selector "^2.4.1"
 
 semver@^5.5.0, semver@^5.6.0:
   version "5.7.1"
@@ -2662,6 +2664,11 @@ tty-browserify@0.0.0:
   version "0.0.0"
   resolved "https://registry.yarnpkg.com/tty-browserify/-/tty-browserify-0.0.0.tgz#a157ba402da24e9bf957f9aa69d524eed42901a6"
   integrity sha1-oVe6QC2iTpv5V/mqadUk7tQpAaY=
+
+typed-query-selector@^2.4.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/typed-query-selector/-/typed-query-selector-2.6.1.tgz#73b6f591974129669df59d90f0bec4216e68a434"
+  integrity sha512-nzzcDrI0nncM5XTNyqeG7MrcXTx8lelUtNlTP+NvpnOfRzApyr+ZW4H/FoOaPfzmjn++Tf0ZxXpBN7Q3FN3ERw==
 
 typedarray@^0.0.6:
   version "0.0.6"

@@ -18,7 +18,7 @@
     "@types/events": "^3.0.0",
     "dom-loaded": "^2.0.0",
     "github-injection": "^1.0.1",
-    "select-dom": "^5.1.0",
+    "select-dom": "^7.1.1",
     "webextension-polyfill": "^0.5.0"
   },
   "devDependencies": {
