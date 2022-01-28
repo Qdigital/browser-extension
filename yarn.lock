@@ -814,10 +814,10 @@ dir-glob@^2.0.0:
   dependencies:
     path-type "^3.0.0"
 
-dom-loaded@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/dom-loaded/-/dom-loaded-2.0.0.tgz#e7be627f743c866e8c1e91657d740a315c0c6207"
-  integrity sha512-sbtlB2ZM+HnKf4fV0nmuxrxY7hKE1vNmgcSD5l3io5ZK+OUBynJxONU5mJffri7nE9/ID34nN+BrN4OSONf8qw==
+dom-loaded@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/dom-loaded/-/dom-loaded-3.0.0.tgz#0164b9bf60ac95ea00ff0d2c8abfe68fb7769759"
+  integrity sha512-XBByp17aE0owJhq5unCdzc9XeWdX7a5l6YaxL02j/kCK2AFjyUA/eKgLO+QqUvjOg3UkpN4dt5cuerUqVYnWoQ==
 
 domain-browser@^1.1.1:
   version "1.2.0"
