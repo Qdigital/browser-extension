@@ -1118,10 +1118,10 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-github-injection@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/github-injection/-/github-injection-1.0.1.tgz#fad4bee67b988993c527556101a87138245ed0dc"
-  integrity sha1-+tS+5nuYiZPFJ1VhAahxOCRe0Nw=
+github-injection@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/github-injection/-/github-injection-1.1.0.tgz#3804bcb65cfdc302df49c8a5152bd43ac00aa95f"
+  integrity sha512-XoypofQSVTLaMlMlcp52Y6v+E58FhonB2iK2FzlBPRP/XxrnfJa4rEDgiD5phiki2jeW5oaP+tcwplbiiA3rMg==
 
 glob-parent@^3.1.0:
   version "3.1.0"
